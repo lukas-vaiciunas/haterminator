@@ -1,0 +1,9 @@
+Move Up-----------------------W
+Move Left---------------------A
+Move Down---------------------S
+Move Right--------------------D
+Shoot-------------------------Left Mouse Button
+Select Button/Menu Option-----Left Mouse Button
+Open Escape Menu (in-game)----Escape
+
+Upon winning or losing, you will be prompted to press the spacebar to return to the main menu.

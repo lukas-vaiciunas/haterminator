@@ -1,0 +1,8 @@
+Credits
+
+Programming------------------Lukas Vaiciunas------github.com/lukas-vaiciunas
+Game Design------------------Lukas Vaiciunas------github.com/lukas-vaiciunas
+Sprite Art/Animations--------Lukas Vaiciunas------github.com/lukas-vaiciunas
+Tile Art---------------------o_lobster------------o-lobster.itch.io
+Font-------------------------Tepid Monkey Fonts---1001fonts.com/users/tepidmonkey
+Allegro 5--------------------Allegro--------------liballeg.org
