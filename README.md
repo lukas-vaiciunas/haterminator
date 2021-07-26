@@ -1,5 +1,5 @@
 # Haterminator
-[Haterminator](gator-game-jam-2021) is a 2D, top-down, arena-based shooter that I created in 45 hours during the Summer 2021 [Gator Game Jam](https://www.gatorgamejam.org/) at the University of Florida.
+[Haterminator](gator-game-jam-2021) is a 2D, top-down, arena-based shooter game that I created in 45 hours during the Summer 2021 [Gator Game Jam](https://www.gatorgamejam.org/) at the University of Florida.
 
 This is what was submitted to the game jam, I did not alter or modify the source code post-submission in any way.
 
