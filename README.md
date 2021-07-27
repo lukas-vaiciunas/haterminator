@@ -26,9 +26,9 @@ The game engine is custom-made, created in C++ using the [Allegro 5](https://lib
 
 Design patterns used:
 - [Game Loop](https://gameprogrammingpatterns.com/game-loop.html)
-- [Pool](https://gameprogrammingpatterns.com/object-pool.html)
+- [Object Pool](https://gameprogrammingpatterns.com/object-pool.html)
 - [Event Queue](https://gameprogrammingpatterns.com/event-queue.html)
-- [Subclass Sandbox](https://gameprogrammingpatterns.com/update-method.html)
+- [Subclass Sandbox](https://gameprogrammingpatterns.com/subclass-sandbox.html)
 - [Singleton](https://gameprogrammingpatterns.com/singleton.html)
 - [State](https://gameprogrammingpatterns.com/state.html)
 - [Update Method](https://gameprogrammingpatterns.com/update-method.html)
